@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Two-Wheeler Garage Management
 
 Phase 1 monorepo: SpurtCommerce-style Node.js API + React/Vite/Tailwind admin UI.
@@ -87,3 +88,6 @@ Placeholders: Inventory, Expenses, Reports
 ## Default garage branding
 
 Receipts use Settings values (defaults: **S G BABU AUTO GARAGE**, Thiruvannamalai, 98765 43210).
+=======
+# garageAppProject
+>>>>>>> b729a4038b893f7c52b525e8977dbed32d386313
